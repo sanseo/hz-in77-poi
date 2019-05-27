@@ -11,6 +11,6 @@
     "precache-manifest.28f9c18018ee377b0ca3740e2f9fa78b.js": "/precache-manifest.28f9c18018ee377b0ca3740e2f9fa78b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ba49ec77.chunk.css.map": "/static/css/main.ba49ec77.chunk.css.map",
-    "static/media/logo.svg": "./public/static/media/logo.ee7cd8ed.svg"
+    "static/media/logo.svg": "./build/static/media/logo.ee7cd8ed.svg"
   }
 }
