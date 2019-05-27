@@ -35,7 +35,7 @@ function getServedPath(appPackageJson) {
   const publicUrl = getPublicUrl(appPackageJson);
   const servedUrl =
     envPublicUrl || (publicUrl ? url.parse(publicUrl).pathname : '/build/');
-  return ensureSlash(servedUrl, true);
+  return ensureSlash('/build/', true);
 }
 
 const moduleFileExtensions = [
